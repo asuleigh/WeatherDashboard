@@ -1,0 +1,11 @@
+.card {
+    background-color: rgb(173, 199, 219);
+}
+
+p {
+    margin: 1rem !important;
+}
+
+.card-text:last-child {
+    margin-bottom: 1rem !important;
+}
