@@ -30,7 +30,7 @@ $('#citySubmit').on('click', function(e) {
             currentTime= moment().format('MM/DD/YY'),
 
             // Grabs source for the weather icons
-            weatherIcon= $("<img src='http://openweathermap.org/img/wn/" + 
+            weatherIcon= $("<img src='https://openweathermap.org/img/wn/" + 
             response.weather[0].icon + ".png' > "),
             
             // Sets lat and lon
@@ -39,7 +39,7 @@ $('#citySubmit').on('click', function(e) {
 
         // Ajax call for getting the UV Index by using coords for each city
         $.ajax({
-            url: uviURL = "http://api.openweathermap.org/data/2.5/uvi?appid=" + 
+            url: uviURL = "https://api.openweathermap.org/data/2.5/uvi?appid=" + 
             OW_API_KEY + "&lat=" +lat+ "&lon=" +lon,
             method: "GET"
             })
