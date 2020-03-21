@@ -1,11 +1,12 @@
-# WeatherDashboard
+# [WeatherDashboard](https://asuleigh.github.io/WeatherDashboard/)
 This project retrieves daily weather information for an inputted city using OpenWeather API
-<hr>
-LINKS: [WeatherDashboard](https://asuleigh.github.io/WeatherDashboard/) 
-<br>
-[github Repo] (https://github.com/asuleigh/WeatherDashboard)
 
-GIF: 
+### Links
+[WeatherDashboard](https://asuleigh.github.io/WeatherDashboard/)
+<br>
+[GitHub Repo](https://github.com/asuleigh/WeatherDashboard)
+
+### GIF
 ![Gif](weatherGIF.gif)
 
 <hr>
