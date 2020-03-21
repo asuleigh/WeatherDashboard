@@ -16,7 +16,7 @@ $('#citySubmit').on('click', function(e) {
 
         console.log(response);
 
-        var nextCard= $('<div>').addClass('card col-sm-9 mt-3'),
+        var nextCard= $('<div>').addClass('card col-sm-9 mt-3 text-dark'),
             nextBody= $('<div>').addClass('card-body py-1'),
 
             // Append the body to the card
