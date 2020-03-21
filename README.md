@@ -29,7 +29,7 @@ i: INSTALLATION -In order to clone or download website for functionality on loca
 
 ii: USAGE -Layout is as it appears and is responsive. Input a city and click submit to see the daily forecast render to the right. You can render several city's forecasts at a time. The program uses ajax calls to retrieve information from the OpenWeather API.
 
-iii: CREDITS -https://www.toptal.com/designers/subtlepatterns/ -https://w3schools.com -https://getbootstrap.com/ -
+iii: CREDITS -https://www.toptal.com/designers/subtlepatterns/ -https://w3schools.com -https://getbootstrap.com/ -https://openweathermap.org/current -https://openweathermap.org/api/uvi -https://openweathermap.org/weather-conditions -https://stackoverflow.com/questions/43699606/400-bad-request-when-using-open-weather-maps-api-geo-location-call -https://staxmanade.com/2018/03/should-i-use-javascript-single-or-double-quotes/
 
 iv: LICENSE GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
